@@ -24,7 +24,7 @@ Automatiser le suivi et la transformation des données de matchs :
 3. **Chargement** dans une base **SQLite**
 4. **Journalisation complète** via `logger_config.py`
 
-Ce pipeline constitue la **brique Python locale** du projet global *Football Analytics Data Platform* (ADF → Snowflake → Power BI).
+Ce pipeline constitue la **brique Python locale** du projet global *Football Analytics Data Platform* (ADF → Snowflake → Streamlnt).
 
 ---
 
